@@ -1,0 +1,5 @@
+rootProject.name = 'ComposableAttribute'
+
+include 'sample'
+include 'sdk'
+include 'sdk-generator'
